@@ -1,0 +1,59 @@
+{
+  "properties": [
+    {
+      "name": "swagger.api-info.title",
+      "type": "java.lang.String",
+      "description": "title",
+      "sourceType": "ren.yuda.swagger2.spring.boot.autoconfigure.ApiInfoProperties"
+    },
+    {
+      "name": "swagger.api-info.description",
+      "type": "java.lang.String",
+      "description": "description",
+      "sourceType": "ren.yuda.swagger2.spring.boot.autoconfigure.ApiInfoProperties"
+    },
+    {
+      "name": "swagger.api-info.terms-of-service-url",
+      "type": "java.lang.String",
+      "description": "terms-of-service-url",
+      "sourceType": "ren.yuda.swagger2.spring.boot.autoconfigure.ApiInfoProperties"
+    },
+    {
+      "name": "swagger.api-info.contact-name",
+      "type": "java.lang.String",
+      "description": "contact-name",
+      "sourceType": "ren.yuda.swagger2.spring.boot.autoconfigure.ApiInfoProperties"
+    },
+    {
+      "name": "swagger.api-info.contact-url",
+      "type": "java.lang.String",
+      "description": "contact-url",
+      "sourceType": "ren.yuda.swagger2.spring.boot.autoconfigure.ApiInfoProperties"
+    },
+    {
+      "name": "swagger.api-info.contact-email",
+      "type": "java.lang.String",
+      "description": "contact-email",
+      "sourceType": "ren.yuda.swagger2.spring.boot.autoconfigure.ApiInfoProperties"
+    },
+    {
+      "name": "swagger.api-info.license",
+      "type": "java.lang.String",
+      "description": "license",
+      "sourceType": "ren.yuda.swagger2.spring.boot.autoconfigure.ApiInfoProperties"
+    },
+    {
+      "name": "swagger.api-info.license-url",
+      "type": "java.lang.String",
+      "description": "license-url",
+      "sourceType": "ren.yuda.swagger2.spring.boot.autoconfigure.ApiInfoProperties"
+    },
+    {
+      "name": "swagger.api-info.version",
+      "type": "java.lang.String",
+      "description": "version",
+      "sourceType": "ren.yuda.swagger2.spring.boot.autoconfigure.ApiInfoProperties"
+    }
+  ],
+  "hints": []
+}
